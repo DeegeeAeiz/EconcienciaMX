@@ -39,7 +39,29 @@ const { image, imageAlt, title, content, button } = entry.data;
           {
             button && (
               <Button
-                label={button.label}
+                label="Nuestro Objectivo"
+                link={button.link}
+                newtab
+                hoverInvert
+                color=""
+              />
+            )
+          }
+          {
+            button && (
+              <Button
+                label="Blog"
+                link={button.link}
+                newtab
+                hoverInvert
+                color=""
+              />
+            )
+          }
+          {
+            button && (
+              <Button
+                label="Nuestros Autores"
                 link={button.link}
                 newtab
                 hoverInvert

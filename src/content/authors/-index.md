@@ -1,4 +1,4 @@
 ---
-title: Authors
-description: this is meta description
+title: Autores
+description: Nuestros autores
 ---

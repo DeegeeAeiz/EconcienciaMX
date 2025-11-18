@@ -1,11 +1,11 @@
 ---
-title: Jane Doe
-email: janedoe@email.com
-image: "@assets/profile/jane-doe.jpg"
+title: Alejandro Piñeyro Farías
+email: apineyro@uadec.edu.mx
+image: "@assets/profile/me.webp"
 social:
   github: "https://github.com/"
   linkedIn: "https://www.linkedin.com/"
-  email: "janedoe@janedoe.com"
+  email: "apineyro@uadec.edu.mx"
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Desarrollador principal del sitio

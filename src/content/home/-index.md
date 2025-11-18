@@ -1,9 +1,9 @@
 ---
-image: "@assets/astrogon-star.svg"
-imageAlt: Astrogon logo
-title: Astrogon
-content: A rapidly-customizable template for a blog, documentation, and more.
+image: "@assets/emx_logo_1000.svg"
+imageAlt: Econciencia MX logo
+title: Econciencia MX
+content: Concientizando para un México verde
 button:
-  label: See the Code
+  label: wa
   link: https://github.com/astrogon/astrogon
 ---

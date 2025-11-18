@@ -1,8 +1,11 @@
 ---
-title: Hey, I'm Jane Doe!
+title: Por un México más verde
 description: this is meta description
-image: "@assets/profile/jane-doe.jpg"
+image: "@assets/nature/5.jpg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Econciencia nació de una idea sencilla: Traer atención a las áreas verdes de México. Nuestro país cuenta con una gran cantidad de ecosistemas variados que son endémicos a él, sin embargo, poco a poco estamos perdiendo la noción de cuidar de ellos y, con eso, la riqueza natural que abunda dentro de ellos.
+<br>
+<br>
+Te invitamos a que te quedes un rato, lee de nuestras publicaciónes al respecto, comparte esta página con otras personas y abre diálogos sobre el cuidado de nuestro ambiente.
