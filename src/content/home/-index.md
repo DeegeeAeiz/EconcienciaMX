@@ -5,5 +5,4 @@ title: Econciencia MX
 content: Concientizando para un México verde
 button:
   label: wa
-  link: https://github.com/astrogon/astrogon
 ---
